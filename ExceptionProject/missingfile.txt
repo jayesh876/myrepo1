@@ -1,0 +1,3 @@
+Welcome to cap gemini
+This is exception handling
+we are reading this file
